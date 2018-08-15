@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# you have the right to change the code but copyright no 
 import urllib.request
 import os
 import time
